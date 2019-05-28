@@ -1,11 +1,11 @@
-title: John Smith
+title: Henry Fung
 description: My Personal Blog
-author: John Smith
-logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+author: Henry Fung
+logo: /static/img/avatar.png
+github: https://github.com/henryfung3a27
+about: Happy developer
 
-baseurl: ""
+baseurl: "/blog"
 url: ""
 
 allowsearch: true
