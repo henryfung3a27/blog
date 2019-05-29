@@ -5,7 +5,7 @@ logo: /static/img/avatar.png
 github: https://github.com/henryfung3a27
 about: Happy developer
 
-baseurl: "/blog/"
+baseurl: "/blog"
 url: ""
 
 allowsearch: true
