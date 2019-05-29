@@ -6,8 +6,8 @@
 }
 .full{ font-size: 16px; }
 .logo-img {
-    width: 56px;
-    height: 56px;
+    width: 90px;
+    height: 90px;
     border-radius: 60px;
     margin: 0 auto;
 }
@@ -28,7 +28,7 @@
 }
 .row-details {
     display: inline-block;
-    vertical-align: middle;
+    vertical-align: bottom;
     color: #fff;
 }
 p.info {
