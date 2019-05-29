@@ -11,7 +11,8 @@
         currentInputValue = '',
         lastSearchResultHash,
         posts = [],
-        sitemap = '/blog' + '/sitemap.xml';
+        baseurl = '/blog',
+        sitemap = baseurl + '/sitemap.xml';
 
     // Changes XML to JSON
     // Modified version from here: http://davidwalsh.name/convert-xml-json
