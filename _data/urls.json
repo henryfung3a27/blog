@@ -16,13 +16,8 @@
     "icon": "fa-desktop"
   },
   {
-    "text": "Resume",
-    "url": "/#",
-    "icon": "fa-graduation-cap",
-  },
-  {
     "text": "Github",
-    "url": "/#",
+    "url": "https://github.com/henryfung3a27",
     "icon": "fa-github"
   },
   {
