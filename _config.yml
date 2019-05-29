@@ -10,13 +10,8 @@ url: ""
 
 allowsearch: true
 
-disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
-
-share:
-  twitter_username: \#
-  fb_appid: 000000000000
-
+disqus_shortname: henryfung3a27
+google_analytics: UA-141054935-1
 
 enableTags: true
 tagarray: []
