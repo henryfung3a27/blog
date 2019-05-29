@@ -6,6 +6,12 @@
     "layout": "post"
   },
   {
+    "text": "Browse",
+    "url": "/category/test",
+    "icon": "fa-home",
+    "layout": "posts_by_category"
+  },
+  {
     "text": "About",
     "url": "/about/",
     "icon": "fa-comments"
